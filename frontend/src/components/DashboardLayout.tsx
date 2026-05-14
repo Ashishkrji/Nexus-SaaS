@@ -19,6 +19,7 @@ const sidebarLinks = [
   { icon: FileText, label: 'Logs', href: '/dashboard/logs' },
   { icon: Shield, label: 'Security', href: '/dashboard/security' },
   { icon: Settings, label: 'Settings', href: '/dashboard/settings' },
+  { icon: Zap, label: 'Upgrade Plan', href: '/pricing', group: 'Billing' },
 ];
 
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
