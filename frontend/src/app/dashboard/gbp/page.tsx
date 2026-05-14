@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { MapPin, Plus, Search, ExternalLink, RefreshCw, Star, MessageSquare, CheckCircle2, Globe } from 'lucide-react';
