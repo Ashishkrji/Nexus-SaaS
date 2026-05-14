@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { User, CreditCard, Puzzle, Shield, Bell, CheckCircle2, MapPin, Zap, ArrowRight, Check } from 'lucide-react';
+import { User, CreditCard, Puzzle, Shield, Bell, CheckCircle2, MapPin, Zap, ArrowRight, Check, Activity } from 'lucide-react';
 import { useAuth } from '@/lib/hooks';
 
 export default function SettingsPage() {
